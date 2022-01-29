@@ -1,0 +1,62 @@
+export const projects = [
+  {
+    title: 'NUcamp website',
+    description: "Fictional camp website coded with react. You can click on tabs, submit comments, and reviews. The site is interactive.",
+      image: '/images/1.png',
+      tags: ['React'],
+    source: 'https://elegant-yonath-e67447.netlify.app',
+    visit: 'https://github.com/janekia/Weather-app',
+    id: 0,
+  },
+  {
+    title: 'Weather Application',
+    description:"Type in any city and country from anywhere in the world and the app will give you the current temperature (in Celsius) the high and low and also the condition of the sky (cloudy, sunny).",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://nostalgic-blackwell-17e96d.netlify.app',
+    visit: 'https://github.com/janekia/Weather-app',
+    id: 1,
+  },
+  {
+    title: 'Sass Website',
+    description: "A mock website that is styled with sass.",
+      image: '/images/3.png',
+      tags: ['Sass', 'Javascript'],
+    source: 'https://mystifying-shannon-1f0ec2.netlify.app',
+    visit: 'https://github.com/janekia/Sass-sample-website',
+    id: 2,
+  },
+  {
+    title: 'ToDo List',
+    description: "You can add, edit and delete items off your to-do list.",
+    image: '/images/4.png',
+    tags: ['React'],
+    source: 'https://xenodochial-hoover-cf853a.netlify.app',
+    visit: 'https://github.com/janekia/To-Do-App',
+    id: 3,
+  },
+  {
+    title: 'MP3 Player',
+    description: "Music player that can be played and paused. You can also go to the next song or go back to the previous song.",
+    image: '/images/5.png',
+    tags: ['Html','Css','Javascript'],
+    source: 'https://inspiring-torvalds-a1eddc.netlify.app',
+    visit: 'https://github.com/janekia/Sample-MP3-player',
+    id: 4,
+  },
+  {
+    title: 'My Book List',
+    description: "Add the book name, author, and 13 # ISBN (International Standard Book Number found above barcode of a book, right after ISBN.) and submit. Your entry will be added to the list.",
+    image: '/images/6.png',
+    tags: ['React'],
+    source: 'https://cocky-hawking-e50e41.netlify.app',
+    visit: 'https://github.com/janekia/Book-app',
+    id: 5,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2010, text: 'Decided to take a chance on coding.', },
+  { year: 2021, text: 'Started coding with Nucamp.', },
+  { year: 2022, text: 'A new Grad from Nucamp Bootcamp and ready to start my new career!', },
+];
