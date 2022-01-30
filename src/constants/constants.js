@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'NUcamp website',
     description: "Fictional camp website coded with react. You can click on tabs, submit comments, and reviews. The site is interactive.",
-      image: '/images/1.png',
+      image: '/images/one.png',
       tags: ['React'],
     source: 'https://elegant-yonath-e67447.netlify.app',
     visit: 'https://github.com/janekia/Weather-app',
