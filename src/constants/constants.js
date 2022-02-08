@@ -45,9 +45,9 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'My Book List',
-    description: "Add the book name, author, and 13 # ISBN (International Standard Book Number found above barcode of a book, right after ISBN.) and submit. Your entry will be added to the list.",
-    image: '/images/6.png',
+    title: 'Naturally Glow-n Beauty',
+    description: "Project I am working on to show off beauty products that are homemade.",
+    image: '/images/.png',
     tags: ['React'],
     source: 'https://cocky-hawking-e50e41.netlify.app',
     visit: 'https://github.com/janekia/Book-app',
