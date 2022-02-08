@@ -49,8 +49,8 @@ export const projects = [
     description: "Project I am working on to show off beauty products that are homemade.",
     image: '/images/.png',
     tags: ['React'],
-    source: 'https://cocky-hawking-e50e41.netlify.app',
-    visit: 'https://github.com/janekia/Book-app',
+    source:'https://ou60wy66m5.execute-api.us-east-2.amazonaws.com/',
+    visit: 'https://github.com/janekia/Naturally-Glow-n-Beauty',
     id: 5,
   },
 ];
