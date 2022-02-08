@@ -12,7 +12,6 @@ const Projects = () => (
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
-            
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
