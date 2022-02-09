@@ -58,9 +58,18 @@ export const projects = [
     description: "A QR Code Generator made with node.js and express.js.",
     image: '/images/.png',
     tags: ['Node.js', 'Express.js'],
-    source:'https://ou60wy66m5.execute-api.us-east-2.amazonaws.com/',
-    visit: 'https://github.com/janekia/Naturally-Glow-n-Beauty',
+    source:'https://lroc3w65z9.execute-api.us-east-2.amazonaws.com/',
+    visit: 'https://github.com/janekia/QR-Code-Generator-Node',
     id: 6,
+  },
+  {
+    title: 'Node Weather App',
+    description: "A QR Code Generator made with node.js and express.js.",
+    image: '/images/.png',
+    tags: ['Node.js', 'Express.js'],
+    source:'https://k3g5zqv7r2.execute-api.us-east-2.amazonaws.com/',
+    visit: 'https://github.com/janekia/Node-Weather-App',
+    id: 7,
   }
 ];
 
